@@ -1,0 +1,410 @@
+{
+  "bundles": [
+    {
+      "name": "animations",
+      "assets": [
+        {
+          "alias": "correlationVisualization",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/animations/correlation-visualization.json",
+          "data": {
+            "height": 200,
+            "width": 200
+          }
+        },
+        {
+          "alias": "dataSync",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/animations/data-sync.json",
+          "data": {
+            "height": 100,
+            "width": 100
+          }
+        },
+        {
+          "alias": "dragPreview",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/animations/drag-preview.json",
+          "data": {
+            "height": 150,
+            "width": 250
+          }
+        },
+        {
+          "alias": "errorToast",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/animations/error-toast.json",
+          "data": {
+            "height": 100,
+            "width": 300
+          }
+        },
+        {
+          "alias": "offlineMode",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/animations/offline-mode.json",
+          "data": {
+            "height": 80,
+            "width": 80
+          }
+        },
+        {
+          "alias": "predictiveAnalysis",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/animations/predictive-analysis.json",
+          "data": {
+            "height": 150,
+            "width": 150
+          }
+        },
+        {
+          "alias": "secureConnection",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/animations/secure-connection.json",
+          "data": {
+            "height": 120,
+            "width": 120
+          }
+        },
+        {
+          "alias": "skeletonLoader",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/animations/skeleton-loader.json",
+          "data": {
+            "height": 50,
+            "width": 200
+          }
+        },
+        {
+          "alias": "widgetCustomization",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/animations/widget-customization.json",
+          "data": {
+            "height": 100,
+            "width": 100
+          }
+        }
+      ]
+    },
+    {
+      "name": "backgrounds",
+      "assets": [
+        {
+          "alias": "authGradient",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/backgrounds/auth-gradient.png",
+          "data": {
+            "height": 1080,
+            "width": 1920
+          }
+        },
+        {
+          "alias": "dashboardPattern",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/backgrounds/dashboard-pattern.png",
+          "data": {
+            "height": 1080,
+            "width": 1920
+          }
+        }
+      ]
+    },
+    {
+      "name": "badges",
+      "assets": [
+        {
+          "alias": "analyticsExpert",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/badges/analytics-expert.svg",
+          "data": {
+            "height": 48,
+            "width": 48
+          }
+        },
+        {
+          "alias": "bankGrade",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/badges/bank-grade-security.svg",
+          "data": {
+            "height": 32,
+            "width": 32
+          }
+        },
+        {
+          "alias": "communicationMaster",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/badges/communication-master.svg",
+          "data": {
+            "height": 48,
+            "width": 48
+          }
+        },
+        {
+          "alias": "consistencyChampion",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/badges/consistency-champion.svg",
+          "data": {
+            "height": 48,
+            "width": 48
+          }
+        },
+        {
+          "alias": "customizationMaster",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/badges/customization-master.svg",
+          "data": {
+            "height": 48,
+            "width": 48
+          }
+        },
+        {
+          "alias": "financialExplorer",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/badges/financial-explorer.svg",
+          "data": {
+            "height": 48,
+            "width": 48
+          }
+        },
+        {
+          "alias": "firstSteps",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/badges/first-steps.svg",
+          "data": {
+            "height": 48,
+            "width": 48
+          }
+        },
+        {
+          "alias": "healthGuardian",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/badges/health-guardian.svg",
+          "data": {
+            "height": 48,
+            "width": 48
+          }
+        },
+        {
+          "alias": "sslSecure",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/badges/ssl-secure.svg",
+          "data": {
+            "height": 32,
+            "width": 32
+          }
+        }
+      ]
+    },
+    {
+      "name": "celebrations",
+      "assets": [
+        {
+          "alias": "confetti",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/celebrations/confetti.gif",
+          "data": {
+            "height": 200,
+            "width": 200
+          }
+        },
+        {
+          "alias": "connectionSuccess",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/celebrations/connection-success.gif",
+          "data": {
+            "height": 150,
+            "width": 150
+          }
+        },
+        {
+          "alias": "correlationFound",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/celebrations/correlation-found.gif",
+          "data": {
+            "height": 100,
+            "width": 100
+          }
+        },
+        {
+          "alias": "insightBurst",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/celebrations/insight-burst.gif",
+          "data": {
+            "height": 120,
+            "width": 120
+          }
+        },
+        {
+          "alias": "sparkles",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/celebrations/sparkles.gif",
+          "data": {
+            "height": 100,
+            "width": 100
+          }
+        }
+      ]
+    },
+    {
+      "name": "icons",
+      "assets": [
+        {
+          "alias": "analyticsChart",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/analytics-chart.svg",
+          "data": {
+            "height": 24,
+            "width": 24
+          }
+        },
+        {
+          "alias": "bankIcon",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/bank-icon.svg",
+          "data": {
+            "height": 24,
+            "width": 24
+          }
+        },
+        {
+          "alias": "communicationIcon",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/communication-icon.svg",
+          "data": {
+            "height": 24,
+            "width": 24
+          }
+        },
+        {
+          "alias": "correlationGraph",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/correlation-graph.svg",
+          "data": {
+            "height": 24,
+            "width": 24
+          }
+        },
+        {
+          "alias": "dragHandle",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/drag-handle.svg",
+          "data": {
+            "height": 16,
+            "width": 16
+          }
+        },
+        {
+          "alias": "dragPreview",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/drag-preview.svg",
+          "data": {
+            "height": 32,
+            "width": 32
+          }
+        },
+        {
+          "alias": "encryptionBadge",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/encryption-badge.svg",
+          "data": {
+            "height": 24,
+            "width": 24
+          }
+        },
+        {
+          "alias": "errorIcon",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/error-icon.svg",
+          "data": {
+            "height": 24,
+            "width": 24
+          }
+        },
+        {
+          "alias": "healthIcon",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/health-icon.svg",
+          "data": {
+            "height": 24,
+            "width": 24
+          }
+        },
+        {
+          "alias": "integrationIcon",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/integration-icon.svg",
+          "data": {
+            "height": 24,
+            "width": 24
+          }
+        },
+        {
+          "alias": "loadingSpinner",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/loading-spinner.svg",
+          "data": {
+            "height": 24,
+            "width": 24
+          }
+        },
+        {
+          "alias": "offlineCloud",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/offline-cloud.svg",
+          "data": {
+            "height": 20,
+            "width": 20
+          }
+        },
+        {
+          "alias": "premiumBadge",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/premium-badge.svg",
+          "data": {
+            "height": 32,
+            "width": 32
+          }
+        },
+        {
+          "alias": "securityShield",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/security-shield.svg",
+          "data": {
+            "height": 32,
+            "width": 32
+          }
+        },
+        {
+          "alias": "syncIndicator",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/sync-indicator.svg",
+          "data": {
+            "height": 16,
+            "width": 16
+          }
+        },
+        {
+          "alias": "widgetGrid",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/icons/widget-grid.svg",
+          "data": {
+            "height": 20,
+            "width": 20
+          }
+        }
+      ]
+    },
+    {
+      "name": "logos",
+      "assets": [
+        {
+          "alias": "appleHealth",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/logos/apple-health-logo.svg",
+          "data": {
+            "height": 48,
+            "width": 48
+          }
+        },
+        {
+          "alias": "fitbit",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/logos/fitbit-logo.svg",
+          "data": {
+            "height": 48,
+            "width": 48
+          }
+        },
+        {
+          "alias": "gmail",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/logos/gmail-logo.svg",
+          "data": {
+            "height": 48,
+            "width": 48
+          }
+        },
+        {
+          "alias": "plaid",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/logos/plaid-logo.svg",
+          "data": {
+            "height": 48,
+            "width": 48
+          }
+        },
+        {
+          "alias": "slack",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/logos/slack-logo.svg",
+          "data": {
+            "height": 48,
+            "width": 48
+          }
+        },
+        {
+          "alias": "twitter",
+          "src": "https://volter-production-assets-upload.s3.amazonaws.com/3c8734ac0ffd4ecbbe716e778aef0c6e/main/preview/assets/logos/twitter-logo.svg",
+          "data": {
+            "height": 48,
+            "width": 48
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "resolution": {
+    "width": 1366,
+    "height": 768
+  },
+  "summary": "The app's internal data handling has been streamlined, removing a component that was causing issues. Users should notice improved stability and reliability, especially regarding how their personal data is saved and loaded."
+}
